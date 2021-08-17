@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EmreSerbes-dev
-- 👀 I’m interested in software
-- 🌱 I’m currently learning deep learning
+- 👋 Hi, I’m @EmreSerbes-dev.
+- 👀 I’m interested in software.
+- 🌱 I’m currently learning javascript.
 - 📫 How to reach me eserbes54@gmail.com / instagram: emrethedev
 
 
